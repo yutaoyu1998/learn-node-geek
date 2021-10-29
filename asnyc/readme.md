@@ -15,3 +15,5 @@ error-first
 异步并发
 npm: asnyc.js
     thunk
+
+Promise
